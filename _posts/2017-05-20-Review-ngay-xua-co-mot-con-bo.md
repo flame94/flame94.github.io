@@ -3,7 +3,7 @@ layout: post
 title:  "Ngày xưa có một con bò"
 date:   2017-05-20 12:30
 categories: review sách
-img: TOITAIGIOI.jpg
+img: ngay-xua-co-mot-con-bo.jpg
 categories: [one, two]
 ---
 ##Nhận xét:
