@@ -3,7 +3,7 @@ layout: post
 title:  "Tôi Tài Giỏi bạn cũng thế"
 date:   2017-05-20 12:13
 categories: review sách dạo
-img: image-1.png
+img: TOITAIGIOI.jpg
 categories: [one, two]
 ---
 
