@@ -9,5 +9,5 @@ categories: [one, two]
 
 ## Review 1
 	Có những lúc tuấn muốn khóc nhưng không thể
-## Review 2
-	Nói thế thôi mà
+
+sua cai gi thi trong config nhe
