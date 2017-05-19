@@ -10,4 +10,3 @@ categories: [one, two]
 ## Review 1
 	Có những lúc tuấn muốn khóc nhưng không thể
 
-sua cai gi thi trong config nhe
